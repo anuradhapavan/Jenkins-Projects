@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-18T19:35:13Z" name="Suite" finished-at="2024-07-18T19:35:13Z" duration-ms="69">
+    <groups>
+    </groups>
+    <test started-at="2024-07-18T19:35:13Z" name="Test" finished-at="2024-07-18T19:35:13Z" duration-ms="69">
+      <class name="lambaDemo.Browser">
+        <test-method signature="myTest()[pri:0, instance:lambaDemo.Browser@1fb669c3]" started-at="2024-07-18T19:35:13Z" name="myTest" finished-at="2024-07-18T19:35:13Z" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+      </class> <!-- lambaDemo.Browser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
